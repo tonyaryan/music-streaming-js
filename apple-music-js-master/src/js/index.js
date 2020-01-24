@@ -20,7 +20,6 @@ export default class MusicJS extends Component {
    render() {
       return (
          <Container>
-            <WelcomeScreen />
             <Header />
             <ViewContainer />
             <PopupContainer />
